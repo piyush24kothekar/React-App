@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/piyush24kothekar/React-App/static/css/main.dc4d6ff2.css",
+    "main.js": "/piyush24kothekar/React-App/static/js/main.e1890847.js",
+    "static/js/787.6643f1c0.chunk.js": "/piyush24kothekar/React-App/static/js/787.6643f1c0.chunk.js",
+    "static/media/loading.gif": "/piyush24kothekar/React-App/static/media/loading.606bea31a67c4458ed65.gif",
+    "index.html": "/piyush24kothekar/React-App/index.html",
+    "main.dc4d6ff2.css.map": "/piyush24kothekar/React-App/static/css/main.dc4d6ff2.css.map",
+    "main.e1890847.js.map": "/piyush24kothekar/React-App/static/js/main.e1890847.js.map",
+    "787.6643f1c0.chunk.js.map": "/piyush24kothekar/React-App/static/js/787.6643f1c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.e1890847.js"
+  ]
+}
